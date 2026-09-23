@@ -8,46 +8,6 @@ This repository contains my learning progress, assignments, practice programs, a
 
 Currently learning the basics of Python programming and practicing through assignments.
 
-#### Topics Covered
-
-- Python Basics
-- Variables and Data Types
-- Input and Output
-- Type Conversion
-- Arithmetic Operators
-- Comparison and Logical Operators
-- Operator Precedence
-- String Basics
-- Conditional Statements
-- Loops
-- Functions
-- Lambda Functions
-- Lists
-- List Comprehensions
-- Tuples
-- Dictionaries
-- Sets
-- File Handling
-- JSON
-
-### Python Fundamentals - Part 1
-
-Currently working on basic Python programming assignments.
-
-Practice includes:
-
-- User input
-- Type conversion
-- Arithmetic calculations
-- Swapping values
-- Temperature conversion
-- Circle area calculation
-- Simple interest calculation
-- Integer and fractional number operations
-- Operators and expressions
-
----
-
 # 🛣️ AI/ML Learning Roadmap
 
 ## 1. Python & Data
